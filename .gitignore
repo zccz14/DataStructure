@@ -1,0 +1,4 @@
+# C/C++ in Windows
+*.exe
+# C/C++ in Linux
+*.out
